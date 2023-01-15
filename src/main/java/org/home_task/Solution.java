@@ -39,7 +39,6 @@ final class Solution {
         Arrays.sort(chars);
         digits = new String(chars);
         this.digits = digits;
-        //System.out.println(this.digits);
     }
 
     /**
